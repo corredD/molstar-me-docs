@@ -13,5 +13,6 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs
       - run: pip install mkdocs-video
+      - run: pip install pymdown-extensions
       - run: git submodule update --init --recursive      
       - run: mkdocs gh-deploy --force --clean --verbose
