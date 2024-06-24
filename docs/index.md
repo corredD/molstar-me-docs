@@ -1,5 +1,5 @@
 ﻿**Getting Started**
-[Mol\* Mesoscale Explorer (MME)](https://mesoscope.scripps.edu/explorer/) is built on top of Mol\* and shares many features with it. We refer the reader to the [Mol\* viewer documentation](https://molstar.org/viewer-docs/) for extensive details. Below you will find specific documentation for MME and related Mol\* viewer documentation.
+[Mol\* Mesoscale Explorer (MME)](https://molstar.org/me/) is built on top of Mol\* and shares many features with it. We refer the reader to the [Mol\* viewer documentation](https://molstar.org/viewer-docs/) for extensive details. Below you will find specific documentation for MME and related Mol\* viewer documentation.
 
 #### **General Interface**
 The user interface is structured with the following components.

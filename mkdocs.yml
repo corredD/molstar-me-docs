@@ -46,4 +46,4 @@ plugins:
       video_controls: True
       css_style:
         width: "100%"
-repo_url: https://github.com/molstar/viewer-docs
+repo_url: https://github.com/molstar/molstar

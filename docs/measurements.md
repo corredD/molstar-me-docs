@@ -1,6 +1,6 @@
 #### Measurements Overview
 
-Some tips & examples for doing measurements in #molstar at [Mol* Mesoscale Explorer](https://mesoscope.scripps.edu/explorer):
+Some tips & examples for doing measurements in #molstar at [Mol* Mesoscale Explorer](https://molstar.org/me/):
 
 - Label, distance, angle, dihedral
 - Orientation (box/axes from principal components)
@@ -16,7 +16,7 @@ Some tips & examples for doing measurements in #molstar at [Mol* Mesoscale Explo
 
 ![type:video](./videos/measure_ex.mp4)
 
-View: [https://mesoscope.scripps.edu/explorer/?url=mesoscope.scripps.edu/explorer/docs/tips/measurements/measurements.molx&type=molx](https://mesoscope.scripps.edu/explorer/?url=mesoscope.scripps.edu/explorer/docs/tips/measurements/measurements.molx&type=molx)
+View: [https://molstar.org/me/?url=mesoscope.scripps.edu/explorer/tours/measurements.molx&type=molx](https://molstar.org/me/?url=mesoscope.scripps.edu/explorer/tours/measurements.molx&type=molx)
 
 #### Label Option
 *Overview*
