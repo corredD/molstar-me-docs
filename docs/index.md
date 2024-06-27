@@ -1,5 +1,5 @@
 ﻿**Getting Started**
-[Mol\* Mesoscale Explorer (MME)](https://molstar.org/me/) is built on top of Mol\* and shares many features with it. We refer the reader to the [Mol\* viewer documentation](https://molstar.org/viewer-docs/) for extensive details. Below you will find specific documentation for MME and related Mol\* viewer documentation.
+[Mol\* Mesoscale Explorer (MME)](https://molstar.org/me/) is built on top of Mol\* and shares many features with it. We refer the reader to the [Mol\* viewer documentation](https://molstar.org/viewer-docs/) for details about the standard viewer. Below you will find specific documentation for MME and related Mol\* viewer documentation.
 
 #### **General Interface**
 The user interface is structured with the following components.
@@ -16,11 +16,10 @@ This menu provides users quick access to:
 - [Snapshots features](snapshot.md): Add/edit the current list of snapshots/slides and options.
 - [Export mp4 animation](Images_Movies.md): Create and export movies of default animations (rock, spin) and snapshot animations.
 - Viewport settings: Advanced viewport and rendering settings.
-- Behavior settings: Advanced settings of the app, such as controlling mouse-click behavior.
 
 #### **2 Middle panel**
 
-This is the viewer where the model is displayed for manipulation in three dimensions (3D). In the viewer panel, the animation controller is displayed at the top left when there are snapshots. A description text panel appears on the left side of the viewer if a description is provided in the current snapshot. The description can be hidden, and its size can be controlled using the dedicated button. The size control also affects the tooltip that appears at the bottom right of the viewer when the mouse hovers over or clicks on a given protein. At the top right, this menu provides users with quick access to some commonly used operations for the 3D canvas. It is located towards the right side of the 3D canvas and has the following functions.
+This is the viewer where the model is displayed for manipulation in three dimensions (3D). In the viewer panel, the animation controller is displayed at the top left when there are snapshots. A description text panel appears on the left side of the viewer if a description is provided in the current snapshot. The description can be hidden, and its size can be controlled using the dedicated button. At the top right, this menu provides users with quick access to some commonly used operations for the 3D canvas. It is located towards the right side of the 3D canvas and has the following functions.
 
 |**Function**|**Description**|**Icon**|
 | :-: | :-: | :-: |
@@ -44,10 +43,12 @@ The Controls Panel provides quick access to the viewport settings (camera, light
 - Yaw left, right: Press arrow left + shift key, arrow right + shift key
 - Boost move: Press left shift key
 - Enable pointer lock: Press space + control key
+- Toggle the click behavior from center to center and focus : Press c
 
 #### **3 Right panel**
 
 - Exposes the model description if any.
 - Displays the current selection settings and information. To select, use shift + left click either on the 3D canvas or in the tree hierarchy.
 - Measurements: Given the current selection, you can create Label, Distance, Angle, Dihedral, Orientation, and Plane visuals over the current model. See details on [Labeling](measurements.md).
+- Quick Styles: Provides different style presets to change the scene appearance. See details [here](quick-styles.md).
 - Graphics quality: Options include Ultra, Quality (Default), Balanced, Performance, and Custom.
